@@ -13,6 +13,8 @@ summary: >
 
 Shout out to Bob Dahlberg
 
+Mention that I've created lots of case studies. Provide the context.
+
 The situation at the heart of all case studies. You aren't doing X. I believe that you should be doing X.
 My goal is to persuade you to start doing it.
 
